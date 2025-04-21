@@ -9,9 +9,10 @@ It displays:
 - Data on Arduino IDE serial monitor
 
 ## 📸 Demo
-![Setup]![image](![Screenshot 2025-04-22 005341](https://github.com/user-attachments/assets/543a5777-33f7-4486-aaf6-e0eabead9374)
+![Setup]![image](![image](https://github.com/user-attachments/assets/573f3db6-b367-4393-87ef-bcdf778d603c)
 )
 )
+
 
 ## 🔧 Hardware Used
 - ESP8266 (NodeMCU/ESP-12E)
@@ -27,7 +28,8 @@ It displays:
 - Modular for IoT expansion
 
 ## 🛠️ Circuit Diagram
-![Circuit]![image](https://github.com/user-attachments/assets/00d4263f-a43c-4f18-8867-8d10b67f0760)
+![Circuit]![image](![Screenshot 2025-04-22 005341](https://github.com/user-attachments/assets/7174fcb3-48d1-4c62-9ba3-7d128654bf5d)
+)
 
 
 ## 🚀 Getting Started
