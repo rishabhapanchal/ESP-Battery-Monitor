@@ -169,10 +169,3 @@ WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
 
 ## 📄 License
 MIT – free to use, modify, share
-
-cd path_to_project_folder
-git init
-git remote add origin https://github.com/YOUR_USERNAME/LiPo-Battery-Monitor.git
-git add .
-git commit -m "Initial commit – LiPo Battery Monitor using ESP8266"
-git push -u origin master
