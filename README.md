@@ -9,8 +9,7 @@ It displays:
 - Data on Arduino IDE serial monitor
 
 ## 📸 Demo
-![Setup]![image](![image](https://github.com/user-attachments/assets/573f3db6-b367-4393-87ef-bcdf778d603c)
-)
+[image](![image](https://github.com/user-attachments/assets/573f3db6-b367-4393-87ef-bcdf778d603c)
 )
 
 
@@ -28,7 +27,7 @@ It displays:
 - Modular for IoT expansion
 
 ## 🛠️ Circuit Diagram
-![Circuit]![image](![Screenshot 2025-04-22 005341](https://github.com/user-attachments/assets/7174fcb3-48d1-4c62-9ba3-7d128654bf5d)
+[image](![Screenshot 2025-04-22 005341](https://github.com/user-attachments/assets/7174fcb3-48d1-4c62-9ba3-7d128654bf5d)
 )
 
 
