@@ -9,7 +9,7 @@ It displays:
 - Data on Arduino IDE serial monitor
 
 ## 📸 Demo
-![Setup](![image](https://github.com/user-attachments/assets/067da644-7824-4c94-8bec-0fdb2493dcc2)
+![Setup]![image](https://github.com/user-attachments/assets/067da644-7824-4c94-8bec-0fdb2493dcc2)
 )
 
 ## 🔧 Hardware Used
